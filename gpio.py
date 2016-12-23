@@ -24,4 +24,4 @@ def toggle(p):
         gpo.value(1)
 
 if __name__ == "__main__":
-    version()
+    
